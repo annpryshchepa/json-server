@@ -1,5 +1,5 @@
 {
-  "weather": [
+  "city": [
     {
       "id": 1,
       "picture": "https://aperchak-template.s3.eu-central-1.amazonaws.com/templates_with_JS/exam_task_pictures/cloth1.png",
